@@ -12,6 +12,6 @@ Android application that processes natural language in type or speech to respond
 
 #### The apk is provided here for demonstration, full source code is available on request.
 
-YouTube video shows features of the app:
+YouTube video shows features of the app (click image):
 
 [![Link to YouTube video of the app](http://img.youtube.com/vi/KIcZyLEVFbs/0.jpg)](https://www.youtube.com/watch?v=KIcZyLEVFbs "Link to YouTube video of the app")
